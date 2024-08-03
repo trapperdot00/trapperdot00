@@ -1,4 +1,4 @@
-- Currently learning <b>C++ & Python</b>
+- Currently learning <b>C++/b>
 
 <!---
 trapperdot00/trapperdot00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
