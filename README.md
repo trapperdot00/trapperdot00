@@ -1,6 +1,6 @@
 ### Currently learning **C++**
 
-- Recently completed [**C++ Primer (5th Edition)**](https://github.com/trapperdot00/cpp_primer_5th_edition_exercises)
+- Completed [**C++ Primer (5th Edition)**](https://github.com/trapperdot00/cpp_primer_5th_edition_exercises), **Design Patterns: Elements of Reusable Object-Oriented Software**, **C++ Concurrency in Action (2nd Edition)**
 - Currently reading [**Programming: Principles and Practice Using C++ (3rd Edition)**](https://github.com/trapperdot00/programming_principles_and_practice_using_cpp_3rd_edition_exercises)
 
 <!---
